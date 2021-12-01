@@ -8,3 +8,5 @@ Data files are from Kaggle: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 Fork this to your own account, then clone to your local machine. (And sorry in advance for the weird git lingo, it takes some getting used to!)
 
 Pushing and pulling is so cool!
+
+jupyter haha
